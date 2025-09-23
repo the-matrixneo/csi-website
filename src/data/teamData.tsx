@@ -128,14 +128,14 @@ export const people2: Person[] = [
             linkedin: "https://www.linkedin.com/in/nipun-agrawal-527168266/",
         },
     },
-    // {
-    //     id: 6,
-    //     image_source:
-    //         "https://res.cloudinary.com/dmwkrlwik/image/upload/v1758195576/Pratham_Gupta_qht7c1.jpg",
-    //     name: "Pratham Gupta",
-    //     position: "Technical Head",
-    //     links: { linkedin: "https://www.linkedin.com/in/prathamgupta006/" },
-    // },
+    {
+        id: 6,
+        image_source:
+            "https://res.cloudinary.com/dmwkrlwik/image/upload/v1758195576/Pratham_Gupta_qht7c1.jpg",
+        name: "Pratham Gupta",
+        position: "Technical Head",
+        links: { linkedin: "https://www.linkedin.com/in/prathamgupta006/" },
+    },
     {
         id: 7,
         image_source:
