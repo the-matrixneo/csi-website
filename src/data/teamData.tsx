@@ -237,9 +237,8 @@ export const people2: Person[] = [
         },
     },
 ];
-
-// CSI_Advisors_Pics
-export const people3: Person[] = [
+// CSI_FOUNDING MEMBERS
+export const peopleFounders: Person[] = [
     {
         id: 1,
         image_source:
@@ -260,8 +259,12 @@ export const people3: Person[] = [
             linkedin: "https://www.linkedin.com/in/vidhi-jain-vee27032004/",
         },
     },
+]
+// CSI_Advisors_Pics
+export const people3: Person[] = [
+   
     {
-        id: 3,
+        id: 1,
         image_source:
             "https://res.cloudinary.com/drt5gi5mx/image/upload/v1722871010/Ansh_Malik-fotor-20240805203113_cvukvu.jpg",
         name: "Ansh Malik",
@@ -271,7 +274,7 @@ export const people3: Person[] = [
         },
     },
     {
-        id: 4,
+        id: 2,
         image_source:
             "https://res.cloudinary.com/drt5gi5mx/image/upload/v1722871022/Yash_Gupta-fotor-2024080520447_tmuw7q.jpg",
         name: "Yash Gupta",
@@ -281,7 +284,7 @@ export const people3: Person[] = [
         },
     },
     {
-        id: 5,
+        id: 3,
         image_source:
             "https://res.cloudinary.com/drt5gi5mx/image/upload/v1722871023/Prajjwal_Sharma-fotor-20240805204020_q4dq1z.jpg",
         name: "Prajjwal Sharma",
@@ -291,7 +294,7 @@ export const people3: Person[] = [
         },
     },
     {
-        id: 6,
+        id: 4,
         image_source:
             "https://res.cloudinary.com/drt5gi5mx/image/upload/v1722871007/Aryan_Dutta-fotor-20240805203429_aqpw49.jpg",
         name: "Aryan Dutta",
@@ -301,7 +304,7 @@ export const people3: Person[] = [
         },
     },
     {
-        id: 7,
+        id: 5,
         image_source:
             "https://res.cloudinary.com/drt5gi5mx/image/upload/v1722871021/Naman_Mangla-fotor-20240805203952_xkpys2.jpg",
         name: "Naman Mangla",
@@ -311,7 +314,7 @@ export const people3: Person[] = [
         },
     },
     {
-        id: 8,
+        id: 6,
         image_source:
             "https://res.cloudinary.com/dbokcixdi/image/upload/v1758385745/joyal_p9ztey.jpg",
         name: "Joyal Jijo",
@@ -321,7 +324,7 @@ export const people3: Person[] = [
         },
     },
     {
-        id: 9,
+        id: 7,
         image_source:
             "https://res.cloudinary.com/dbokcixdi/image/upload/v1758442968/WhatsApp_Image_2025-09-21_at_13.46.49_ihk9md.jpg",
         name: "Kumar Harsh",
@@ -331,7 +334,7 @@ export const people3: Person[] = [
         },
     },
     {
-        id: 10,
+        id: 8,
         image_source:
             "https://res.cloudinary.com/dbokcixdi/image/upload/v1758385853/Aadarsh_axdu3k.jpg",
         name: "Adarsh singh",
@@ -341,7 +344,7 @@ export const people3: Person[] = [
         },
     },
     {
-        id: 11,
+        id: 9,
         image_source:
             "https://res.cloudinary.com/dbokcixdi/image/upload/v1758442794/WhatsApp_Image_2025-09-21_at_13.46.48_jvzpsl.jpg",
         name: "Ashish",
@@ -351,7 +354,7 @@ export const people3: Person[] = [
         },
     },
     {
-        id: 12,
+        id: 10,
         image_source:
             "https://res.cloudinary.com/dbokcixdi/image/upload/v1758386009/ayan_b9mz4c.jpg",
         name: "Ayan Gairola",
@@ -361,7 +364,7 @@ export const people3: Person[] = [
         },
     },
     {
-        id: 13,
+        id: 11,
         image_source:
             "https://res.cloudinary.com/dbokcixdi/image/upload/v1758443067/WhatsApp_Image_2025-09-21_at_13.46.49_1_rwntyj.jpg",
         name: "Parth Goel",
@@ -418,7 +421,7 @@ export const executivesData: Department[] = [
                 name: "Dakshata",
                 links: { linkedin: "https://www.linkedin.com/in/daky2024/" },
             },
-            { name: "Ashi", links: { linkedin: "" } },
+            { name: "Aashi", links: { linkedin: "https://www.linkedin.com/in/aashi-garg-940976329" } },
         ],
     },
     {
