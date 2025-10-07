@@ -262,7 +262,6 @@ export const peopleFounders: Person[] = [
 ]
 // CSI_Advisors_Pics
 export const people3: Person[] = [
-   
     {
         id: 1,
         image_source:
