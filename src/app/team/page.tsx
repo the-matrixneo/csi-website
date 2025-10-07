@@ -151,7 +151,7 @@ export default function TeamPage() {
 
             <div className="flex flex-col items-center text-center">
                 <h2 className="mt-6 text-pretty font-bold text-3xl lg:text-4xl bg-gradient-to-b from-[rgba(29,51,9,0.99)] via-[#41d324ff] to-[#41d324ff] text-transparent bg-clip-text">
-                    Advisors
+                    ADVISORS
                 </h2>
             </div>
             <div className="mt-12 mx-8 md:mx-12 flex gap-x-12 md:gap-x-20 lg:gap-x-28 gap-y-6 md:gap-y-16 items-center justify-center flex-wrap">
