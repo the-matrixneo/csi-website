@@ -244,7 +244,7 @@ export const peopleFounders: Person[] = [
         image_source:
             "https://res.cloudinary.com/dop6gul0f/image/upload/v1754420295/saksham_gupta_pkpr36.jpg",
         name: "Saksham Gupta",
-        position: "Founding Members",
+        position: "Founding Member",
         links: {
             linkedin: "https://www.linkedin.com/in/saksham-gupta-057669126/",
         },
@@ -254,7 +254,7 @@ export const peopleFounders: Person[] = [
         image_source:
             "https://res.cloudinary.com/drt5gi5mx/image/upload/v1722871017/Vidhi_Jain-fotor-20240805204258_f1s3wi.jpg",
         name: "Vidhi Jain",
-        position: "Founding Members",
+        position: "Founding Member",
         links: {
             linkedin: "https://www.linkedin.com/in/vidhi-jain-vee27032004/",
         },
